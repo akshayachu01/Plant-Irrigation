@@ -1,0 +1,74 @@
+AutoECO Report
+FILE-A: E:\NGL INTERNSHIP PROJECTS\PLANT IRRIGATION\LAYOUT\PROJECT.MAX
+FILE-B: E:\NGL INTERNSHIP PROJECTS\PLANT IRRIGATION\CAPTURE\PROJECT.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding package R
+Adding package SW_PUSHBUTTON-SPST-2
+Adding package LED
+Adding package CAP_NP
+Adding package LM317/CYL_0
+Adding package DIODE
+Adding package CON3
+Adding package CON2
+Adding package BC107
+Adding package 78XX/SIP_0
+Adding package CAP
+Adding package RELAY_SPDT
+Adding package CON16C
+Adding component R6
+Found footprint QUARTERWATT RESISTOR from PRT file for part R, comp R6
+Adding component R2
+Adding component R1
+Adding component SW1
+Adding component R7
+Adding component D2
+Found library footprint with same name as part LED
+Adding component C4
+Found footprint CYL/D.200/LS.100/.031 from PRT file for part CAP_NP, comp C4
+Adding component U2
+Found footprint 7811 from PRT file for part LM317/CYL_0, comp U2
+Adding component D1
+Found footprint 1N4007 from PRT file for part DIODE, comp D1
+Adding component J1
+Found library footprint with same name as part CON3
+Adding component R4
+Adding component R9
+Adding component J3
+Found footprint 2 PIN BLACK RMC from PRT file for part CON2, comp J3
+Adding component Q1
+Adding component R3
+Adding component R8
+Adding component R5
+Adding component U3
+Found footprint 78XX from PRT file for part 78XX/SIP_0, comp U3
+Adding component C3
+Found footprint CYL/D.400/LS.200/.034 from PRT file for part CAP, comp C3
+Adding component C2
+Adding component LS1
+Found footprint RELAY SPDT from PRT file for part RELAY_SPDT, comp LS1
+Adding component C1
+Adding component D3
+Adding component J4
+Adding component J2
+Found footprint ESP CONNECTOR from PRT file for part CON16C, comp J2
+Adding net N04816
+Adding net N11874
+Adding net N12298
+Adding net N08639
+Adding net N09373
+Adding net N04577
+Adding net PIN
+Adding net POUT
+Adding net 3.3V
+Adding net N01758
+Adding net 5V
+Adding net ADJ
+Adding net 12V
+Adding net GND
+Adding net N04163
+Adding net N04486
+Adding net N05567
+Adding net N05697
+Deleting net DEFAULT
+*EOF*
+No errors found
