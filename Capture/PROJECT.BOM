@@ -1,0 +1,33 @@
+  Revised: Tuesday, July 11, 2017
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials           July 11,2017      13:24:00	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	C1	10uf
+2	1	C2	100uf
+3	1	C3	1uf
+4	2	D3,D1	DIODE
+5	1	D2	LED
+6	1	J1	power adaptor
+7	1	J2	CON16C
+8	1	J3	motor connector
+9	1	J4	earth connector
+10	1	LS1	RELAY SPDT
+11	1	Q1	BC107
+12	1	R1	220E
+13	1	R2	390E
+14	1	R3	680E
+15	5	R4,R5,R6,R7,R8	10k
+16	1	R9	57k
+17	1	SW1	SW PUSHBUTTON-SPST-2
+18	1	U1	LM7805/TO
+19	1	U2	LM317/CYL

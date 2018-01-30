@@ -1,0 +1,1711 @@
+Mon Jul 10 14:55:14 Saved as file D:\PROJECT\PROJECT.MAX
+Mon Jul 10 14:55:14 Saved as file BACKUP1.MAX
+Mon Jul 10 14:55:14 Saved as file D:\PROJECT\PROJECT.MAX
+Mon Jul 10 14:55:15 UserDiv from Layout.INI for AutoECO: 60
+Mon Jul 10 14:55:15 Loaded file D:\PROJECT\PROJECT.MAX
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\BCON100T.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\BCON156T.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\BGA.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CAPACITORS.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CLCC.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CONNECTOR.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DCON050T.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DCON085T.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIMM050F.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIMM050T.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIN.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIODES.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIP100B.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIP100T.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DSUBT.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DSUBT_HD.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\ECON100T.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\EMPTY.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\EX_GUI.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\FBUS.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\FOOTERS.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\ISA.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\JUMPER.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\LAYOUT.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\LCON100T.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\METRIC.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\NEO.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PADSTACK.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PC104.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PCI.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PCON100T.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PCON156T.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PGA.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PLCC.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\QUAD.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\QUADB.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\REGULATORS.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\RELAY.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\RESISTORS.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\RF.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SBUS.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM050F.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM050T.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM100F.LLB
+Mon Jul 10 14:55:15 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM100T.LLB
+Mon Jul 10 14:55:16 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIP.LLB
+Mon Jul 10 14:55:16 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SM.LLB
+Mon Jul 10 14:55:16 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SOG.LLB
+Mon Jul 10 14:55:16 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SOJ.LLB
+Mon Jul 10 14:55:16 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\STIFF.LLB
+Mon Jul 10 14:55:16 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SWITCH.LLB
+Mon Jul 10 14:55:16 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TELE.LLB
+Mon Jul 10 14:55:16 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_AXIAL.LLB
+Mon Jul 10 14:55:16 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_CAP_P.LLB
+Mon Jul 10 14:55:16 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_CYLND.LLB
+Mon Jul 10 14:55:16 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_DIODE.LLB
+Mon Jul 10 14:55:16 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_DISC.LLB
+Mon Jul 10 14:55:16 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_RAD.LLB
+Mon Jul 10 14:55:16 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TO.LLB
+Mon Jul 10 14:55:16 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TRAINING.LLB
+Mon Jul 10 14:55:16 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TRANSISTORS.LLB
+Mon Jul 10 14:55:16 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\VRES.LLB
+Mon Jul 10 14:55:16 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\WCON100T.LLB
+Mon Jul 10 14:55:16 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\XT.LLB
+Mon Jul 10 14:55:16 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\ZIGBEE.LLB
+Mon Jul 10 14:55:16 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\ZIGZAG.LLB
+Mon Jul 10 14:55:16 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\RESISTORS.LLB
+Mon Jul 10 14:55:16 Footprint coords will be rounded to nearest base unit.
+Mon Jul 10 14:55:16 Footprint coords will be rounded to nearest base unit.
+Mon Jul 10 14:55:16 Footprint coords will be rounded to nearest base unit.
+Mon Jul 10 14:55:16 Footprint coords will be rounded to nearest base unit.
+Mon Jul 10 14:55:16 Footprint coords will be rounded to nearest base unit.
+Mon Jul 10 14:55:16 Footprint coords will be rounded to nearest base unit.
+Mon Jul 10 14:55:16 Footprint coords will be rounded to nearest base unit.
+Mon Jul 10 14:55:16 Footprint coords will be rounded to nearest base unit.
+Mon Jul 10 14:55:16 Footprint coords will be rounded to nearest base unit.
+Mon Jul 10 14:55:16 Footprint coords will be rounded to nearest base unit.
+Mon Jul 10 14:55:16 Footprint coords will be rounded to nearest base unit.
+Mon Jul 10 14:55:16 Footprint coords will be rounded to nearest base unit.
+Mon Jul 10 14:55:16 Footprint coords will be rounded to nearest base unit.
+Mon Jul 10 14:55:16 Footprint coords will be rounded to nearest base unit.
+Mon Jul 10 14:55:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon Jul 10 14:55:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Mon Jul 10 14:58:52 Loaded file D:\PROJECT\PROJECT.MAX
+Mon Jul 10 15:02:48 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Mon Jul 10 15:02:48 Loaded file C:\Program Files\Orcad\Layout_Plus\data\template.imp
+Mon Jul 10 15:06:50 Saved as file BACKUP1.MAX
+Mon Jul 10 15:09:59 Saved as file ~undo.max
+Mon Jul 10 15:11:48 Saved as file ~undo.max
+Mon Jul 10 15:17:20 Saved as file BACKUP1.MAX
+Mon Jul 10 15:17:34 Saved as file ~undo.max
+Mon Jul 10 15:23:10 Saved as file ~undo.max
+Mon Jul 10 15:24:09 Saved as file ~undo.max
+Mon Jul 10 15:27:50 Saved as file BACKUP1.MAX
+Mon Jul 10 15:38:20 Saved as file BACKUP1.MAX
+Mon Jul 10 15:48:50 Saved as file BACKUP1.MAX
+Mon Jul 10 15:59:20 Saved as file BACKUP1.MAX
+Mon Jul 10 16:09:50 Saved as file BACKUP1.MAX
+Mon Jul 10 16:20:20 Saved as file BACKUP1.MAX
+Tue Jul 11 09:45:07 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 09:45:07 Saved as file BACKUP1.MAX
+Tue Jul 11 09:45:07 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 09:45:08 UserDiv from Layout.INI for AutoECO: 60
+Tue Jul 11 09:45:08 Loaded file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ZIGBEE.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\BCON100T.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\BCON156T.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\BGA.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CAPACITORS.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CLCC.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CONNECTOR.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DCON050T.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DCON085T.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIMM050F.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIMM050T.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIN.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIODES.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIP100B.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIP100T.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DSUBT.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DSUBT_HD.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\ECON100T.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\EMPTY.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\EX_GUI.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\FBUS.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\FOOTERS.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\ISA.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\JUMPER.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\LAYOUT.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\LCON100T.LLB
+Tue Jul 11 09:45:08 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\METRIC.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\NEO.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PADSTACK.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PC104.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PCI.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PCON100T.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PCON156T.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PGA.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PLCC.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\QUAD.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\QUADB.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\REGULATORS.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\RELAY.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\RESISTORS.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\RF.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SBUS.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM050F.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM050T.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM100F.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM100T.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIP.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SM.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SOG.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SOJ.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\STIFF.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SWITCH.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TELE.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_AXIAL.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_CAP_P.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_CYLND.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_DIODE.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_DISC.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_RAD.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TO.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TRAINING.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TRANSISTORS.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\VRES.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\WCON100T.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\XT.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\ZIGBEE.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\ZIGZAG.LLB
+Tue Jul 11 09:45:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\RESISTORS.LLB
+Tue Jul 11 09:45:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 09:45:22 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 09:45:43 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DCON085T.LLB
+Tue Jul 11 09:45:44 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SBUS.LLB
+Tue Jul 11 09:45:45 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM050F.LLB
+Tue Jul 11 09:45:45 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM050T.LLB
+Tue Jul 11 09:45:46 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM100F.LLB
+Tue Jul 11 09:45:46 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM100T.LLB
+Tue Jul 11 09:45:46 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIP.LLB
+Tue Jul 11 09:45:46 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SM.LLB
+Tue Jul 11 09:45:46 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SOG.LLB
+Tue Jul 11 09:45:47 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SOJ.LLB
+Tue Jul 11 09:45:47 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\STIFF.LLB
+Tue Jul 11 09:45:47 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SWITCH.LLB
+Tue Jul 11 09:45:50 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 09:45:53 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SWITCH.LLB
+Tue Jul 11 09:45:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:53 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\NEO.LLB
+Tue Jul 11 09:45:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\REGULATORS.LLB
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIODES.LLB
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CONNECTOR.LLB
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CONNECTOR.LLB
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TRANSISTORS.LLB
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_CYLND.LLB
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\RELAY.LLB
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:45:54 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:46:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 09:46:00 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 09:46:03 Loaded file C:\USERS\USER\DESKTOP\ZIGBEE.LLB
+Tue Jul 11 09:46:07 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 09:46:09 Loaded file C:\USERS\USER\DESKTOP\ZIGBEE.LLB
+Tue Jul 11 09:46:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:46:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:46:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:46:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:46:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:46:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:46:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:46:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:46:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:46:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:46:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:46:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:46:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:46:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:46:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:46:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:46:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:46:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:46:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:46:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:46:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:46:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:46:09 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 09:46:09 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 09:46:09 Loaded file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 09:54:46 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 09:54:50 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 09:57:05 Saved as file BACKUP1.MAX
+Tue Jul 11 10:07:05 Saved as file BACKUP1.MAX
+Tue Jul 11 10:17:35 Saved as file BACKUP1.MAX
+Tue Jul 11 10:28:05 Saved as file BACKUP1.MAX
+Tue Jul 11 10:38:35 Saved as file BACKUP1.MAX
+Tue Jul 11 10:48:35 Saved as file BACKUP1.MAX
+Tue Jul 11 10:59:05 Saved as file BACKUP1.MAX
+Tue Jul 11 11:09:35 Saved as file BACKUP1.MAX
+Tue Jul 11 11:20:05 Saved as file BACKUP1.MAX
+Tue Jul 11 11:30:35 Saved as file BACKUP1.MAX
+Tue Jul 11 11:41:05 Saved as file BACKUP1.MAX
+Tue Jul 11 11:51:35 Saved as file BACKUP1.MAX
+Tue Jul 11 12:02:05 Saved as file BACKUP1.MAX
+Tue Jul 11 12:06:54 Saved as file ~undo.max
+Tue Jul 11 12:12:35 Saved as file BACKUP1.MAX
+Tue Jul 11 12:12:50 Saved as file ~undo.max
+Tue Jul 11 12:13:25 Saved as file ~undo.max
+Tue Jul 11 12:23:05 Saved as file BACKUP1.MAX
+Tue Jul 11 13:18:26 Saved as file BACKUP1.MAX
+Tue Jul 11 13:24:23 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 13:24:23 Saved as file BACKUP1.MAX
+Tue Jul 11 13:24:23 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 13:24:23 UserDiv from Layout.INI for AutoECO: 60
+Tue Jul 11 13:24:23 Loaded file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ZIGBEE.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\BCON100T.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\BCON156T.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\BGA.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CAPACITORS.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CLCC.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CONNECTOR.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DCON050T.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DCON085T.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIMM050F.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIMM050T.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIN.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIODES.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIP100B.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIP100T.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DSUBT.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DSUBT_HD.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\ECON100T.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\EMPTY.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\EX_GUI.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\FBUS.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\FOOTERS.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\ISA.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\JUMPER.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\LAYOUT.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\LCON100T.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\METRIC.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\NEO.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PADSTACK.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PC104.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PCI.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PCON100T.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PCON156T.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PGA.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PLCC.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\QUAD.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\QUADB.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\REGULATORS.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\RELAY.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\RESISTORS.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\RF.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SBUS.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM050F.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM050T.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM100F.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM100T.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIP.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SM.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SOG.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SOJ.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\STIFF.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SWITCH.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TELE.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_AXIAL.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_CAP_P.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_CYLND.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_DIODE.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_DISC.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_RAD.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TO.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TRAINING.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TRANSISTORS.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\VRES.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\WCON100T.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\XT.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\ZIGBEE.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\ZIGZAG.LLB
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\RESISTORS.LLB
+Tue Jul 11 13:24:23 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:23 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:23 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:23 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:23 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:23 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:23 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:23 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:23 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:23 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:23 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:23 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:23 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:23 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:23 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SWITCH.LLB
+Tue Jul 11 13:24:23 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:23 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:23 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:23 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:23 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:23 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:23 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:23 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:23 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\NEO.LLB
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\REGULATORS.LLB
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIODES.LLB
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CONNECTOR.LLB
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CONNECTOR.LLB
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TRANSISTORS.LLB
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_CYLND.LLB
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\RELAY.LLB
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Loaded file C:\USERS\USER\DESKTOP\ZIGBEE.LLB
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 13:24:24 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 13:24:24 Loaded file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 13:24:27 Saved as file Backup0.max
+Tue Jul 11 13:24:27 Windows which were open at time of error:
+Tue Jul 11 13:24:27 	ActiveWindow: &Components
+Tue Jul 11 13:24:27 	Icon: &Nets
+Tue Jul 11 13:24:27 	Icon: Post Proces&s
+Tue Jul 11 13:24:27 	Icon: &Route
+Tue Jul 11 13:24:27 End-of-list
+Tue Jul 11 13:24:27 Loaded file BACKUP0.MAX
+Tue Jul 11 13:24:52 Loaded file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 13:37:27 Saved as file BACKUP1.MAX
+Tue Jul 11 13:39:09 Saved as file BACKUP1.MAX
+Tue Jul 11 13:39:09 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 13:39:09 UserDiv from Layout.INI for AutoECO: 60
+Tue Jul 11 13:39:09 Loaded file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ZIGBEE.LLB
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\BCON100T.LLB
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\BCON156T.LLB
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\BGA.LLB
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CAPACITORS.LLB
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CLCC.LLB
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CONNECTOR.LLB
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DCON050T.LLB
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DCON085T.LLB
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIMM050F.LLB
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIMM050T.LLB
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIN.LLB
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIODES.LLB
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIP100B.LLB
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIP100T.LLB
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DSUBT.LLB
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DSUBT_HD.LLB
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\ECON100T.LLB
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\EMPTY.LLB
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\EX_GUI.LLB
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\FBUS.LLB
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\FOOTERS.LLB
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\ISA.LLB
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\JUMPER.LLB
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\LAYOUT.LLB
+Tue Jul 11 13:39:09 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\LCON100T.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\METRIC.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\NEO.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PADSTACK.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PC104.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PCI.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PCON100T.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PCON156T.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PGA.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PLCC.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\QUAD.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\QUADB.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\REGULATORS.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\RELAY.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\RESISTORS.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\RF.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SBUS.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM050F.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM050T.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM100F.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM100T.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIP.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SM.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SOG.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SOJ.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\STIFF.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SWITCH.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TELE.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_AXIAL.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_CAP_P.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_CYLND.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_DIODE.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_DISC.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_RAD.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TO.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TRAINING.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TRANSISTORS.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\VRES.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\WCON100T.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\XT.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\ZIGBEE.LLB
+Tue Jul 11 13:39:10 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\ZIGZAG.LLB
+Tue Jul 11 13:39:10 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 13:39:10 Loaded file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 13:41:14 Saved as file ~undo.max
+Tue Jul 11 13:43:32 Saved as file ~undo.max
+Tue Jul 11 13:44:48 Saved as file ~undo.max
+Tue Jul 11 13:47:57 Saved as file BACKUP1.MAX
+Tue Jul 11 13:47:58 Saved as file ~undo.max
+Tue Jul 11 13:48:20 Saved as file ~undo.max
+Tue Jul 11 13:56:42 Saved as file ~undo.max
+Tue Jul 11 13:58:27 Saved as file BACKUP1.MAX
+Tue Jul 11 14:01:14 Saved as file ~undo.max
+Tue Jul 11 14:03:37 Saved as file ~undo.max
+Tue Jul 11 14:06:22 Saved as file ~undo.max
+Tue Jul 11 14:06:38 Saved as file ~undo.max
+Tue Jul 11 14:06:53 Saved as file BACKUP1.MAX
+Tue Jul 11 14:06:53 No new connections routed.
+Tue Jul 11 14:06:53 Total is now 0 out of 43 (0%).
+Tue Jul 11 14:06:53 Saved as file SWEEP1.MAX
+Tue Jul 11 14:06:54 Saved as file BACKUP1.MAX
+Tue Jul 11 14:06:54 Routed 40 connections in 1 seconds.
+Tue Jul 11 14:06:54 Total is now 40 out of 43 (93%).
+Tue Jul 11 14:06:55 Saved as file SWEEP2.MAX
+Tue Jul 11 14:06:59 No new connections routed.
+Tue Jul 11 14:06:59 Total is now 40 out of 43 (93%).
+Tue Jul 11 14:06:59 Saved as file SWEEP3.MAX
+Tue Jul 11 14:07:06 Routed 1 connections in 6 seconds.
+Tue Jul 11 14:07:06 Total is now 40 out of 43 (93%).
+Tue Jul 11 14:07:06 Saved as file SWEEP4.MAX
+Tue Jul 11 14:07:12 Routed 2 connections in 6 seconds.
+Tue Jul 11 14:07:12 Total is now 41 out of 43 (95%).
+Tue Jul 11 14:07:12 Saved as file SWEEP5.MAX
+Tue Jul 11 14:07:38 Saved as file ~undo.max
+Tue Jul 11 14:07:40 Saved as file ~undo.max
+Tue Jul 11 14:08:57 Saved as file BACKUP1.MAX
+Tue Jul 11 14:09:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:09:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:09:43 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:09:43 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:09:43 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:09:43 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:09:43 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:09:43 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:09:43 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:09:43 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:09:43 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:09:43 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:09:43 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:09:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:09:43 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:09:43 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:09:43 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:09:43 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:09:43 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:09:43 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:09:43 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:09:43 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:09:43 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:09:43 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:09:43 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:09:43 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:09:48 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\BCON156T.LLB
+Tue Jul 11 14:09:53 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CAPACITORS.LLB
+Tue Jul 11 14:09:54 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CLCC.LLB
+Tue Jul 11 14:09:55 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CONNECTOR.LLB
+Tue Jul 11 14:10:05 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:10:09 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:10:10 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:10:17 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:10:17 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:10:17 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:10:17 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:10:17 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:10:17 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:10:17 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:10:17 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:10:17 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:10:17 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:10:17 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:10:17 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:10:17 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:10:17 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:10:17 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:10:17 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:10:17 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:11:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:11:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:11:27 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:11:27 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:11:27 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:11:27 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:11:27 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:11:27 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:11:27 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:11:27 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:11:27 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:11:27 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:11:27 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:11:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:11:27 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:11:27 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:11:27 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:11:27 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:11:27 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:11:27 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:11:27 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:11:27 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:11:27 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:11:27 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:11:27 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:11:27 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:11:36 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CONNECTOR.LLB
+Tue Jul 11 14:11:42 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:12:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:12:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:12:04 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:04 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:04 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:04 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:04 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:04 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:04 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:04 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:04 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:04 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:04 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:12:04 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:04 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:04 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:04 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:04 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:04 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:04 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:04 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:04 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:04 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:04 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:04 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:12:13 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:13 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:13 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:13 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:13 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:13 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:13 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:13 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:13 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:13 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:13 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:13 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:13 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:13 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:13 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:13 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:13 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:12:13 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:20:19 Saved as file BACKUP1.MAX
+Tue Jul 11 14:20:19 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 14:20:19 UserDiv from Layout.INI for AutoECO: 60
+Tue Jul 11 14:20:19 Loaded file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 14:20:19 Loaded file C:\USERS\USER\DESKTOP\ZIGBEE.LLB
+Tue Jul 11 14:20:19 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\BCON100T.LLB
+Tue Jul 11 14:20:19 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\BCON156T.LLB
+Tue Jul 11 14:20:19 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\BGA.LLB
+Tue Jul 11 14:20:19 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CAPACITORS.LLB
+Tue Jul 11 14:20:19 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CLCC.LLB
+Tue Jul 11 14:20:19 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CONNECTOR.LLB
+Tue Jul 11 14:20:19 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DCON050T.LLB
+Tue Jul 11 14:20:19 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DCON085T.LLB
+Tue Jul 11 14:20:19 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIMM050F.LLB
+Tue Jul 11 14:20:19 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIMM050T.LLB
+Tue Jul 11 14:20:19 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIN.LLB
+Tue Jul 11 14:20:19 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIODES.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIP100B.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIP100T.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DSUBT.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DSUBT_HD.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\ECON100T.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\EMPTY.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\EX_GUI.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\FBUS.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\FOOTERS.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\ISA.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\JUMPER.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\LAYOUT.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\LCON100T.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\METRIC.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\NEO.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PADSTACK.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PC104.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PCI.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PCON100T.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PCON156T.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PGA.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PLCC.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\QUAD.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\QUADB.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\REGULATORS.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\RELAY.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\RESISTORS.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\RF.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SBUS.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM050F.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM050T.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM100F.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM100T.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIP.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SM.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SOG.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SOJ.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\STIFF.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SWITCH.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TELE.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_AXIAL.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_CAP_P.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_CYLND.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_DIODE.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_DISC.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_RAD.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TO.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TRAINING.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TRANSISTORS.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\VRES.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\WCON100T.LLB
+Tue Jul 11 14:20:20 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\XT.LLB
+Tue Jul 11 14:20:21 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\ZIGBEE.LLB
+Tue Jul 11 14:20:21 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\ZIGZAG.LLB
+Tue Jul 11 14:20:28 Saved as file BACKUP1.MAX
+Tue Jul 11 14:20:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:20:30 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:20:36 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CAPACITORS.LLB
+Tue Jul 11 14:20:42 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TELE.LLB
+Tue Jul 11 14:20:47 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_AXIAL.LLB
+Tue Jul 11 14:20:47 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_CAP_P.LLB
+Tue Jul 11 14:20:48 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_CYLND.LLB
+Tue Jul 11 14:20:48 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_DIODE.LLB
+Tue Jul 11 14:20:48 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_DISC.LLB
+Tue Jul 11 14:20:48 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_RAD.LLB
+Tue Jul 11 14:20:48 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TO.LLB
+Tue Jul 11 14:20:49 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_RAD.LLB
+Tue Jul 11 14:20:52 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:20:53 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_RAD.LLB
+Tue Jul 11 14:20:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:20:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:20:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:20:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:20:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:20:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:20:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:20:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:20:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:20:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:20:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:20:53 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:20:53 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 14:20:53 Loaded file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 14:24:24 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:24:24 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:24 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:24 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:24 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:24:29 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\BCON156T.LLB
+Tue Jul 11 14:24:30 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TELE.LLB
+Tue Jul 11 14:24:32 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_AXIAL.LLB
+Tue Jul 11 14:24:32 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_CAP_P.LLB
+Tue Jul 11 14:24:33 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_CYLND.LLB
+Tue Jul 11 14:24:44 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:24:46 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:46 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:46 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:46 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:46 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:46 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:46 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:46 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:46 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:24:46 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:25:09 Saved as file ~undo.max
+Tue Jul 11 14:25:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:25:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:25:38 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:25:38 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:25:38 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:25:38 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:25:38 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:25:38 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:25:38 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:25:38 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:25:38 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:25:38 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:25:38 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:25:38 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:25:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:25:38 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:25:38 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:25:38 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:25:38 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:25:38 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:25:38 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:25:38 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:25:38 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:25:38 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:25:38 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:25:38 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:25:38 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:25:38 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:26:09 Saved as file ~undo.max
+Tue Jul 11 14:26:45 Saved as file ~undo.max
+Tue Jul 11 14:27:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:27:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:27:25 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:27:25 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:27:25 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:27:25 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:27:25 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:27:25 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:27:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:27:25 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:27:25 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:27:25 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:27:25 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:27:25 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:27:25 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:27:25 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:27:34 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CONNECTOR.LLB
+Tue Jul 11 14:27:40 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:27:42 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:27:42 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:27:42 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:27:42 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:27:42 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:27:42 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:27:42 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:27:42 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:27:42 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:28:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:28:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:28:14 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:28:14 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:28:14 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:28:14 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:28:14 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:28:14 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:28:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:28:14 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:28:14 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:28:14 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:28:14 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:28:14 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:28:14 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:28:14 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:28:21 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CONNECTOR.LLB
+Tue Jul 11 14:28:28 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:29:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:29:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:29:32 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:29:32 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:29:32 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:29:32 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:29:32 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:29:32 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:29:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:29:32 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:29:32 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:29:32 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:29:32 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:29:32 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:29:32 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:29:32 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:29:36 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:29:36 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:29:37 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:29:37 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:29:37 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:29:37 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:29:37 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:29:37 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:29:37 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 14:29:37 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 14:30:07 Saved as file ~undo.max
+Tue Jul 11 14:30:27 Saved as file ~undo.max
+Tue Jul 11 14:32:27 Saved as file BACKUP1.MAX
+Tue Jul 11 14:33:24 Saved as file ~undo.max
+Tue Jul 11 14:33:34 Saved as file BACKUP1.MAX
+Tue Jul 11 14:33:34 No new connections routed.
+Tue Jul 11 14:33:34 Total is now 0 out of 45 (0%).
+Tue Jul 11 14:33:34 Saved as file SWEEP1.MAX
+Tue Jul 11 14:33:36 Saved as file BACKUP1.MAX
+Tue Jul 11 14:33:36 Routed 40 connections in 1 seconds.
+Tue Jul 11 14:33:36 Total is now 40 out of 45 (88%).
+Tue Jul 11 14:33:36 Saved as file SWEEP2.MAX
+Tue Jul 11 14:33:41 No new connections routed.
+Tue Jul 11 14:33:41 Total is now 40 out of 45 (88%).
+Tue Jul 11 14:33:41 Saved as file SWEEP3.MAX
+Tue Jul 11 14:33:48 Routed 1 connections in 6 seconds.
+Tue Jul 11 14:33:48 Total is now 41 out of 45 (91%).
+Tue Jul 11 14:33:48 Saved as file SWEEP4.MAX
+Tue Jul 11 14:33:53 No new connections routed.
+Tue Jul 11 14:33:53 Total is now 41 out of 45 (91%).
+Tue Jul 11 14:33:53 Saved as file SWEEP5.MAX
+Tue Jul 11 14:36:35 Saved as file BACKUP1.MAX
+Tue Jul 11 14:36:35 No new connections routed.
+Tue Jul 11 14:36:35 Total is now 0 out of 45 (0%).
+Tue Jul 11 14:36:35 Saved as file SWEEP1.MAX
+Tue Jul 11 14:36:37 Saved as file BACKUP1.MAX
+Tue Jul 11 14:36:37 Routed 40 connections in 1 seconds.
+Tue Jul 11 14:36:37 Total is now 40 out of 45 (88%).
+Tue Jul 11 14:36:37 Saved as file SWEEP2.MAX
+Tue Jul 11 14:36:42 Routed 1 connections in 5 seconds.
+Tue Jul 11 14:36:42 Total is now 41 out of 45 (91%).
+Tue Jul 11 14:36:42 Saved as file SWEEP3.MAX
+Tue Jul 11 14:36:46 No new connections routed.
+Tue Jul 11 14:36:46 Total is now 41 out of 45 (91%).
+Tue Jul 11 14:36:46 Saved as file SWEEP4.MAX
+Tue Jul 11 14:36:52 No new connections routed.
+Tue Jul 11 14:36:52 Total is now 41 out of 45 (91%).
+Tue Jul 11 14:36:52 Saved as file SWEEP5.MAX
+Tue Jul 11 14:41:12 Saved as file BACKUP1.MAX
+Tue Jul 11 14:41:12 No new connections routed.
+Tue Jul 11 14:41:12 Total is now 0 out of 45 (0%).
+Tue Jul 11 14:41:12 Saved as file SWEEP1.MAX
+Tue Jul 11 14:41:14 Saved as file BACKUP1.MAX
+Tue Jul 11 14:41:14 Routed 37 connections in 2 seconds.
+Tue Jul 11 14:41:14 Total is now 37 out of 45 (82%).
+Tue Jul 11 14:41:14 Saved as file SWEEP2.MAX
+Tue Jul 11 14:41:23 Routed 1 connections in 8 seconds.
+Tue Jul 11 14:41:23 Total is now 38 out of 45 (84%).
+Tue Jul 11 14:41:23 Saved as file SWEEP3.MAX
+Tue Jul 11 14:41:36 Routed 1 connections in 12 seconds.
+Tue Jul 11 14:41:36 Total is now 38 out of 45 (84%).
+Tue Jul 11 14:41:36 Saved as file SWEEP4.MAX
+Tue Jul 11 14:41:50 Routed 1 connections in 14 seconds.
+Tue Jul 11 14:41:50 Total is now 38 out of 45 (84%).
+Tue Jul 11 14:41:50 Saved as file SWEEP5.MAX
+Tue Jul 11 14:42:57 Saved as file BACKUP1.MAX
+Tue Jul 11 14:45:30 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 14:47:26 Saved as file ~undo.max
+Tue Jul 11 14:47:53 Saved as file BACKUP1.MAX
+Tue Jul 11 14:47:53 No new connections routed.
+Tue Jul 11 14:47:53 Total is now 0 out of 45 (0%).
+Tue Jul 11 14:47:53 Saved as file SWEEP1.MAX
+Tue Jul 11 14:47:55 Saved as file BACKUP1.MAX
+Tue Jul 11 14:47:55 Routed 38 connections in 1 seconds.
+Tue Jul 11 14:47:55 Total is now 38 out of 45 (84%).
+Tue Jul 11 14:47:55 Saved as file SWEEP2.MAX
+Tue Jul 11 14:48:04 No new connections routed.
+Tue Jul 11 14:48:04 Total is now 38 out of 45 (84%).
+Tue Jul 11 14:48:04 Saved as file SWEEP3.MAX
+Tue Jul 11 14:48:23 No new connections routed.
+Tue Jul 11 14:48:23 Total is now 38 out of 45 (84%).
+Tue Jul 11 14:48:23 Saved as file SWEEP4.MAX
+Tue Jul 11 14:48:38 Routed 1 connections in 15 seconds.
+Tue Jul 11 14:48:38 Total is now 39 out of 45 (86%).
+Tue Jul 11 14:48:38 Saved as file SWEEP5.MAX
+Tue Jul 11 14:51:32 Saved as file BACKUP1.MAX
+Tue Jul 11 14:51:32 No new connections routed.
+Tue Jul 11 14:51:32 Total is now 0 out of 45 (0%).
+Tue Jul 11 14:51:32 Saved as file SWEEP1.MAX
+Tue Jul 11 14:51:34 Saved as file BACKUP1.MAX
+Tue Jul 11 14:51:34 Routed 39 connections in 2 seconds.
+Tue Jul 11 14:51:34 Total is now 39 out of 45 (86%).
+Tue Jul 11 14:51:34 Saved as file SWEEP2.MAX
+Tue Jul 11 14:51:42 No new connections routed.
+Tue Jul 11 14:51:42 Total is now 39 out of 45 (86%).
+Tue Jul 11 14:51:42 Saved as file SWEEP3.MAX
+Tue Jul 11 14:52:02 No new connections routed.
+Tue Jul 11 14:52:02 Total is now 39 out of 45 (86%).
+Tue Jul 11 14:52:02 Saved as file SWEEP4.MAX
+Tue Jul 11 14:53:27 Saved as file BACKUP1.MAX
+Tue Jul 11 14:59:16 Saved as file ~undo.max
+Tue Jul 11 14:59:26 Saved as file BACKUP1.MAX
+Tue Jul 11 14:59:26 No new connections routed.
+Tue Jul 11 14:59:26 Total is now 0 out of 45 (0%).
+Tue Jul 11 14:59:26 Saved as file SWEEP1.MAX
+Tue Jul 11 14:59:27 Saved as file BACKUP1.MAX
+Tue Jul 11 14:59:27 Routed 40 connections in 1 seconds.
+Tue Jul 11 14:59:27 Total is now 40 out of 45 (88%).
+Tue Jul 11 14:59:27 Saved as file SWEEP2.MAX
+Tue Jul 11 14:59:32 Routed 1 connections in 5 seconds.
+Tue Jul 11 14:59:32 Total is now 41 out of 45 (91%).
+Tue Jul 11 14:59:32 Saved as file SWEEP3.MAX
+Tue Jul 11 14:59:40 No new connections routed.
+Tue Jul 11 14:59:40 Total is now 41 out of 45 (91%).
+Tue Jul 11 14:59:40 Saved as file SWEEP4.MAX
+Tue Jul 11 14:59:49 No new connections routed.
+Tue Jul 11 14:59:49 Total is now 41 out of 45 (91%).
+Tue Jul 11 14:59:49 Saved as file SWEEP5.MAX
+Tue Jul 11 15:02:46 Saved as file ~undo.max
+Tue Jul 11 15:03:11 Saved as file BACKUP1.MAX
+Tue Jul 11 15:03:11 No new connections routed.
+Tue Jul 11 15:03:11 Total is now 0 out of 45 (0%).
+Tue Jul 11 15:03:11 Saved as file SWEEP1.MAX
+Tue Jul 11 15:03:13 Saved as file BACKUP1.MAX
+Tue Jul 11 15:03:13 Routed 41 connections in 1 seconds.
+Tue Jul 11 15:03:13 Total is now 41 out of 45 (91%).
+Tue Jul 11 15:03:13 Saved as file SWEEP2.MAX
+Tue Jul 11 15:03:17 No new connections routed.
+Tue Jul 11 15:03:17 Total is now 41 out of 45 (91%).
+Tue Jul 11 15:03:17 Saved as file SWEEP3.MAX
+Tue Jul 11 15:03:22 No new connections routed.
+Tue Jul 11 15:03:22 Total is now 41 out of 45 (91%).
+Tue Jul 11 15:03:22 Saved as file SWEEP4.MAX
+Tue Jul 11 15:03:27 No new connections routed.
+Tue Jul 11 15:03:27 Total is now 41 out of 45 (91%).
+Tue Jul 11 15:03:27 Saved as file SWEEP5.MAX
+Tue Jul 11 15:03:57 Saved as file BACKUP1.MAX
+Tue Jul 11 15:06:56 Saved as file ~undo.max
+Tue Jul 11 15:07:55 Saved as file BACKUP1.MAX
+Tue Jul 11 15:07:55 No new connections routed.
+Tue Jul 11 15:07:55 Total is now 0 out of 45 (0%).
+Tue Jul 11 15:07:55 Saved as file SWEEP1.MAX
+Tue Jul 11 15:07:58 Saved as file BACKUP1.MAX
+Tue Jul 11 15:07:58 Routed 41 connections in 2 seconds.
+Tue Jul 11 15:07:58 Total is now 41 out of 45 (91%).
+Tue Jul 11 15:07:58 Saved as file SWEEP2.MAX
+Tue Jul 11 15:08:04 No new connections routed.
+Tue Jul 11 15:08:04 Total is now 41 out of 45 (91%).
+Tue Jul 11 15:08:04 Saved as file SWEEP3.MAX
+Tue Jul 11 15:08:09 Routed 1 connections in 5 seconds.
+Tue Jul 11 15:08:09 Total is now 41 out of 45 (91%).
+Tue Jul 11 15:08:09 Saved as file SWEEP4.MAX
+Tue Jul 11 15:08:16 Routed 1 connections in 6 seconds.
+Tue Jul 11 15:08:16 Total is now 41 out of 45 (91%).
+Tue Jul 11 15:08:16 Saved as file SWEEP5.MAX
+Tue Jul 11 15:12:48 Saved as file ~undo.max
+Tue Jul 11 15:13:34 Saved as file BACKUP1.MAX
+Tue Jul 11 15:13:34 No new connections routed.
+Tue Jul 11 15:13:34 Total is now 0 out of 45 (0%).
+Tue Jul 11 15:13:34 Saved as file SWEEP1.MAX
+Tue Jul 11 15:13:36 Saved as file BACKUP1.MAX
+Tue Jul 11 15:13:36 Routed 41 connections in 1 seconds.
+Tue Jul 11 15:13:36 Total is now 41 out of 45 (91%).
+Tue Jul 11 15:13:36 Saved as file SWEEP2.MAX
+Tue Jul 11 15:13:40 No new connections routed.
+Tue Jul 11 15:13:40 Total is now 41 out of 45 (91%).
+Tue Jul 11 15:13:40 Saved as file SWEEP3.MAX
+Tue Jul 11 15:13:45 Routed 1 connections in 5 seconds.
+Tue Jul 11 15:13:45 Total is now 41 out of 45 (91%).
+Tue Jul 11 15:13:45 Saved as file SWEEP4.MAX
+Tue Jul 11 15:13:50 Routed 1 connections in 4 seconds.
+Tue Jul 11 15:13:50 Total is now 42 out of 45 (93%).
+Tue Jul 11 15:13:50 Saved as file SWEEP5.MAX
+Tue Jul 11 15:14:27 Saved as file BACKUP1.MAX
+Tue Jul 11 15:15:12 Saved as file ~undo.max
+Tue Jul 11 15:16:51 Saved as file ~undo.max
+Tue Jul 11 15:17:05 No new connections routed.
+Tue Jul 11 15:17:05 Total is now 0 out of 45 (0%).
+Tue Jul 11 15:17:21 Saved as file BACKUP1.MAX
+Tue Jul 11 15:17:21 No new connections routed.
+Tue Jul 11 15:17:21 Total is now 0 out of 45 (0%).
+Tue Jul 11 15:17:21 Saved as file SWEEP1.MAX
+Tue Jul 11 15:17:23 Saved as file BACKUP1.MAX
+Tue Jul 11 15:17:23 Routed 39 connections in 1 seconds.
+Tue Jul 11 15:17:23 Total is now 39 out of 45 (86%).
+Tue Jul 11 15:17:23 Saved as file SWEEP2.MAX
+Tue Jul 11 15:17:30 Routed 1 connections in 7 seconds.
+Tue Jul 11 15:17:30 Total is now 40 out of 45 (88%).
+Tue Jul 11 15:17:30 Saved as file SWEEP3.MAX
+Tue Jul 11 15:17:41 No new connections routed.
+Tue Jul 11 15:17:41 Total is now 40 out of 45 (88%).
+Tue Jul 11 15:17:41 Saved as file SWEEP4.MAX
+Tue Jul 11 15:17:54 No new connections routed.
+Tue Jul 11 15:17:54 Total is now 40 out of 45 (88%).
+Tue Jul 11 15:17:54 Saved as file SWEEP5.MAX
+Tue Jul 11 15:21:12 Saved as file ~undo.max
+Tue Jul 11 15:22:17 Saved as file BACKUP1.MAX
+Tue Jul 11 15:22:17 No new connections routed.
+Tue Jul 11 15:22:17 Total is now 0 out of 45 (0%).
+Tue Jul 11 15:22:17 Saved as file SWEEP1.MAX
+Tue Jul 11 15:22:20 Saved as file BACKUP1.MAX
+Tue Jul 11 15:22:20 Routed 36 connections in 2 seconds.
+Tue Jul 11 15:22:20 Total is now 36 out of 45 (80%).
+Tue Jul 11 15:22:20 Saved as file SWEEP2.MAX
+Tue Jul 11 15:22:30 Routed 2 connections in 9 seconds.
+Tue Jul 11 15:22:30 Total is now 38 out of 45 (84%).
+Tue Jul 11 15:22:30 Saved as file SWEEP3.MAX
+Tue Jul 11 15:22:44 Routed 1 connections in 14 seconds.
+Tue Jul 11 15:22:44 Total is now 38 out of 45 (84%).
+Tue Jul 11 15:22:44 Saved as file SWEEP4.MAX
+Tue Jul 11 15:23:00 Routed 2 connections in 16 seconds.
+Tue Jul 11 15:23:00 Total is now 38 out of 45 (84%).
+Tue Jul 11 15:23:00 Saved as file SWEEP5.MAX
+Tue Jul 11 15:24:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 15:24:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 15:24:41 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 15:24:41 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 15:24:41 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 15:24:41 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 15:24:41 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 15:24:41 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 15:24:41 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 15:24:41 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 15:24:41 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 15:24:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 15:24:41 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 15:24:41 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 15:24:41 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 15:24:41 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 15:24:41 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 15:24:41 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 15:24:41 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 15:24:41 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 15:24:41 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 15:24:41 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 15:24:45 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 15:24:45 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 15:24:45 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 15:24:45 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 15:24:45 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 15:24:45 Footprint coords will be rounded to nearest base unit.
+Tue Jul 11 15:24:45 Loaded file C:\PROGRAM FILES\ORCAD\LAYOUT_PLUS\data\template.imp
+Tue Jul 11 15:24:57 Saved as file BACKUP1.MAX
+Tue Jul 11 15:25:31 Saved as file ~undo.max
+Tue Jul 11 15:30:25 Saved as file ~undo.max
+Tue Jul 11 15:32:00 Saved as file ~undo.max
+Tue Jul 11 15:32:49 Saved as file ~undo.max
+Tue Jul 11 15:34:12 Saved as file ~undo.max
+Tue Jul 11 15:35:27 Saved as file BACKUP1.MAX
+Tue Jul 11 15:36:14 Saved as file ~undo.max
+Tue Jul 11 15:36:26 Saved as file BACKUP1.MAX
+Tue Jul 11 15:36:26 No new connections routed.
+Tue Jul 11 15:36:26 Total is now 0 out of 45 (0%).
+Tue Jul 11 15:36:26 Saved as file SWEEP1.MAX
+Tue Jul 11 15:36:28 Saved as file BACKUP1.MAX
+Tue Jul 11 15:36:28 Routed 38 connections in 1 seconds.
+Tue Jul 11 15:36:28 Total is now 38 out of 45 (84%).
+Tue Jul 11 15:36:28 Saved as file SWEEP2.MAX
+Tue Jul 11 15:36:35 Routed 1 connections in 7 seconds.
+Tue Jul 11 15:36:35 Total is now 39 out of 45 (86%).
+Tue Jul 11 15:36:35 Saved as file SWEEP3.MAX
+Tue Jul 11 15:36:45 Routed 2 connections in 10 seconds.
+Tue Jul 11 15:36:45 Total is now 40 out of 45 (88%).
+Tue Jul 11 15:36:45 Saved as file SWEEP4.MAX
+Tue Jul 11 15:36:55 No new connections routed.
+Tue Jul 11 15:36:55 Total is now 40 out of 45 (88%).
+Tue Jul 11 15:36:55 Saved as file SWEEP5.MAX
+Tue Jul 11 15:38:36 Saved as file BACKUP1.MAX
+Tue Jul 11 15:38:36 No new connections routed.
+Tue Jul 11 15:38:36 Total is now 0 out of 45 (0%).
+Tue Jul 11 15:38:36 Saved as file SWEEP1.MAX
+Tue Jul 11 15:38:38 Saved as file BACKUP1.MAX
+Tue Jul 11 15:38:38 Routed 39 connections in 1 seconds.
+Tue Jul 11 15:38:38 Total is now 39 out of 45 (86%).
+Tue Jul 11 15:38:38 Saved as file SWEEP2.MAX
+Tue Jul 11 15:38:45 No new connections routed.
+Tue Jul 11 15:38:45 Total is now 39 out of 45 (86%).
+Tue Jul 11 15:38:45 Saved as file SWEEP3.MAX
+Tue Jul 11 15:38:58 Routed 1 connections in 12 seconds.
+Tue Jul 11 15:38:58 Total is now 39 out of 45 (86%).
+Tue Jul 11 15:38:58 Saved as file SWEEP4.MAX
+Tue Jul 11 15:39:11 No new connections routed.
+Tue Jul 11 15:39:11 Total is now 39 out of 45 (86%).
+Tue Jul 11 15:39:11 Saved as file SWEEP5.MAX
+Tue Jul 11 15:40:04 Saved as file BACKUP1.MAX
+Tue Jul 11 15:40:04 No new connections routed.
+Tue Jul 11 15:40:04 Total is now 0 out of 45 (0%).
+Tue Jul 11 15:40:04 Saved as file SWEEP1.MAX
+Tue Jul 11 15:40:06 Saved as file BACKUP1.MAX
+Tue Jul 11 15:40:06 Routed 38 connections in 1 seconds.
+Tue Jul 11 15:40:06 Total is now 38 out of 45 (84%).
+Tue Jul 11 15:40:06 Saved as file SWEEP2.MAX
+Tue Jul 11 15:40:14 Routed 1 connections in 7 seconds.
+Tue Jul 11 15:40:14 Total is now 39 out of 45 (86%).
+Tue Jul 11 15:40:14 Saved as file SWEEP3.MAX
+Tue Jul 11 15:40:27 Routed 1 connections in 12 seconds.
+Tue Jul 11 15:40:27 Total is now 39 out of 45 (86%).
+Tue Jul 11 15:40:27 Saved as file SWEEP4.MAX
+Tue Jul 11 15:40:41 No new connections routed.
+Tue Jul 11 15:40:41 Total is now 39 out of 45 (86%).
+Tue Jul 11 15:40:41 Saved as file SWEEP5.MAX
+Tue Jul 11 15:44:38 Saved as file ~undo.max
+Tue Jul 11 15:45:57 Saved as file BACKUP1.MAX
+Tue Jul 11 15:46:31 Saved as file ~undo.max
+Tue Jul 11 15:47:08 Saved as file BACKUP1.MAX
+Tue Jul 11 15:47:08 No new connections routed.
+Tue Jul 11 15:47:08 Total is now 0 out of 45 (0%).
+Tue Jul 11 15:47:08 Saved as file SWEEP1.MAX
+Tue Jul 11 15:47:10 Saved as file BACKUP1.MAX
+Tue Jul 11 15:47:10 Routed 39 connections in 1 seconds.
+Tue Jul 11 15:47:10 Total is now 39 out of 45 (86%).
+Tue Jul 11 15:47:10 Saved as file SWEEP2.MAX
+Tue Jul 11 15:47:16 Routed 2 connections in 5 seconds.
+Tue Jul 11 15:47:16 Total is now 41 out of 45 (91%).
+Tue Jul 11 15:47:16 Saved as file SWEEP3.MAX
+Tue Jul 11 15:47:20 No new connections routed.
+Tue Jul 11 15:47:20 Total is now 41 out of 45 (91%).
+Tue Jul 11 15:47:20 Saved as file SWEEP4.MAX
+Tue Jul 11 15:47:25 No new connections routed.
+Tue Jul 11 15:47:25 Total is now 41 out of 45 (91%).
+Tue Jul 11 15:47:25 Saved as file SWEEP5.MAX
+Tue Jul 11 15:49:08 Saved as file BACKUP1.MAX
+Tue Jul 11 15:49:08 No new connections routed.
+Tue Jul 11 15:49:08 Total is now 0 out of 45 (0%).
+Tue Jul 11 15:49:08 Saved as file SWEEP1.MAX
+Tue Jul 11 15:49:10 Saved as file BACKUP1.MAX
+Tue Jul 11 15:49:10 Routed 42 connections in 1 seconds.
+Tue Jul 11 15:49:10 Total is now 42 out of 45 (93%).
+Tue Jul 11 15:49:10 Saved as file SWEEP2.MAX
+Tue Jul 11 15:49:13 No new connections routed.
+Tue Jul 11 15:49:13 Total is now 42 out of 45 (93%).
+Tue Jul 11 15:49:13 Saved as file SWEEP3.MAX
+Tue Jul 11 15:49:16 No new connections routed.
+Tue Jul 11 15:49:16 Total is now 42 out of 45 (93%).
+Tue Jul 11 15:49:16 Saved as file SWEEP4.MAX
+Tue Jul 11 15:49:19 No new connections routed.
+Tue Jul 11 15:49:19 Total is now 42 out of 45 (93%).
+Tue Jul 11 15:49:19 Saved as file SWEEP5.MAX
+Tue Jul 11 15:56:57 Saved as file BACKUP1.MAX
+Tue Jul 11 16:06:06 Saved as file BACKUP1.MAX
+Tue Jul 11 16:06:06 No new connections routed.
+Tue Jul 11 16:06:06 Total is now 0 out of 45 (0%).
+Tue Jul 11 16:06:06 Saved as file SWEEP1.MAX
+Tue Jul 11 16:06:08 Saved as file BACKUP1.MAX
+Tue Jul 11 16:06:08 Routed 40 connections in 1 seconds.
+Tue Jul 11 16:06:08 Total is now 40 out of 45 (88%).
+Tue Jul 11 16:06:08 Saved as file SWEEP2.MAX
+Tue Jul 11 16:06:14 No new connections routed.
+Tue Jul 11 16:06:14 Total is now 40 out of 45 (88%).
+Tue Jul 11 16:06:14 Saved as file SWEEP3.MAX
+Tue Jul 11 16:06:21 No new connections routed.
+Tue Jul 11 16:06:21 Total is now 40 out of 45 (88%).
+Tue Jul 11 16:06:21 Saved as file SWEEP4.MAX
+Tue Jul 11 16:06:28 No new connections routed.
+Tue Jul 11 16:06:28 Total is now 40 out of 45 (88%).
+Tue Jul 11 16:06:28 Saved as file SWEEP5.MAX
+Tue Jul 11 16:07:27 Saved as file BACKUP1.MAX
+Tue Jul 11 16:09:40 Saved as file BACKUP1.MAX
+Tue Jul 11 16:09:40 No new connections routed.
+Tue Jul 11 16:09:40 Total is now 0 out of 45 (0%).
+Tue Jul 11 16:09:40 Saved as file SWEEP1.MAX
+Tue Jul 11 16:09:42 Saved as file BACKUP1.MAX
+Tue Jul 11 16:09:42 Routed 40 connections in 1 seconds.
+Tue Jul 11 16:09:42 Total is now 40 out of 45 (88%).
+Tue Jul 11 16:09:42 Saved as file SWEEP2.MAX
+Tue Jul 11 16:09:48 No new connections routed.
+Tue Jul 11 16:09:48 Total is now 40 out of 45 (88%).
+Tue Jul 11 16:09:48 Saved as file SWEEP3.MAX
+Tue Jul 11 16:09:54 Routed 1 connections in 6 seconds.
+Tue Jul 11 16:09:54 Total is now 41 out of 45 (91%).
+Tue Jul 11 16:09:54 Saved as file SWEEP4.MAX
+Tue Jul 11 16:09:59 No new connections routed.
+Tue Jul 11 16:09:59 Total is now 41 out of 45 (91%).
+Tue Jul 11 16:09:59 Saved as file SWEEP5.MAX
+Tue Jul 11 16:13:02 Saved as file BACKUP1.MAX
+Tue Jul 11 16:13:02 No new connections routed.
+Tue Jul 11 16:13:02 Total is now 0 out of 45 (0%).
+Tue Jul 11 16:13:02 Saved as file SWEEP1.MAX
+Tue Jul 11 16:13:04 Saved as file BACKUP1.MAX
+Tue Jul 11 16:13:04 Routed 41 connections in 1 seconds.
+Tue Jul 11 16:13:04 Total is now 41 out of 45 (91%).
+Tue Jul 11 16:13:04 Saved as file SWEEP2.MAX
+Tue Jul 11 16:13:08 No new connections routed.
+Tue Jul 11 16:13:08 Total is now 41 out of 45 (91%).
+Tue Jul 11 16:13:08 Saved as file SWEEP3.MAX
+Tue Jul 11 16:13:13 No new connections routed.
+Tue Jul 11 16:13:13 Total is now 41 out of 45 (91%).
+Tue Jul 11 16:13:13 Saved as file SWEEP4.MAX
+Tue Jul 11 16:13:18 Routed 1 connections in 5 seconds.
+Tue Jul 11 16:13:18 Total is now 41 out of 45 (91%).
+Tue Jul 11 16:13:18 Saved as file SWEEP5.MAX
+Tue Jul 11 16:15:41 Saved as file BACKUP1.MAX
+Tue Jul 11 16:15:41 No new connections routed.
+Tue Jul 11 16:15:41 Total is now 0 out of 45 (0%).
+Tue Jul 11 16:15:41 Saved as file SWEEP1.MAX
+Tue Jul 11 16:15:43 Saved as file BACKUP1.MAX
+Tue Jul 11 16:15:43 Routed 40 connections in 1 seconds.
+Tue Jul 11 16:15:43 Total is now 40 out of 45 (88%).
+Tue Jul 11 16:15:43 Saved as file SWEEP2.MAX
+Tue Jul 11 16:15:49 No new connections routed.
+Tue Jul 11 16:15:49 Total is now 40 out of 45 (88%).
+Tue Jul 11 16:15:49 Saved as file SWEEP3.MAX
+Tue Jul 11 16:15:56 Routed 1 connections in 6 seconds.
+Tue Jul 11 16:15:56 Total is now 41 out of 45 (91%).
+Tue Jul 11 16:15:56 Saved as file SWEEP4.MAX
+Tue Jul 11 16:16:01 Routed 1 connections in 4 seconds.
+Tue Jul 11 16:16:01 Total is now 41 out of 45 (91%).
+Tue Jul 11 16:16:01 Saved as file SWEEP5.MAX
+Tue Jul 11 16:17:11 Saved as file BACKUP1.MAX
+Tue Jul 11 16:17:11 No new connections routed.
+Tue Jul 11 16:17:11 Total is now 0 out of 45 (0%).
+Tue Jul 11 16:17:11 Saved as file SWEEP1.MAX
+Tue Jul 11 16:17:13 Saved as file BACKUP1.MAX
+Tue Jul 11 16:17:13 Routed 41 connections in 1 seconds.
+Tue Jul 11 16:17:13 Total is now 41 out of 45 (91%).
+Tue Jul 11 16:17:13 Saved as file SWEEP2.MAX
+Tue Jul 11 16:17:17 No new connections routed.
+Tue Jul 11 16:17:17 Total is now 41 out of 45 (91%).
+Tue Jul 11 16:17:17 Saved as file SWEEP3.MAX
+Tue Jul 11 16:17:22 No new connections routed.
+Tue Jul 11 16:17:22 Total is now 41 out of 45 (91%).
+Tue Jul 11 16:17:22 Saved as file SWEEP4.MAX
+Tue Jul 11 16:17:27 Routed 1 connections in 4 seconds.
+Tue Jul 11 16:17:27 Total is now 42 out of 45 (93%).
+Tue Jul 11 16:17:27 Saved as file SWEEP5.MAX
+Tue Jul 11 16:17:58 Saved as file BACKUP1.MAX
+Tue Jul 11 16:22:19 Saved as file ~undo.max
+Tue Jul 11 16:24:19 Saved as file ~undo.max
+Tue Jul 11 16:25:15 Saved as file ~undo.max
+Tue Jul 11 16:26:27 Saved as file ~undo.max
+Tue Jul 11 16:27:04 Saved as file ~undo.max
+Tue Jul 11 16:28:27 Saved as file BACKUP1.MAX
+Tue Jul 11 16:29:01 Saved as file ~undo.max
+Tue Jul 11 16:33:48 Saved as file ~undo.max
+Tue Jul 11 16:34:43 Saved as file ~undo.max
+Tue Jul 11 16:37:19 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 16:38:57 Saved as file BACKUP1.MAX
+Tue Jul 11 16:39:49 Saved as file ~undo.max
+Tue Jul 11 16:40:37 Saved as file ~undo.max
+Tue Jul 11 16:40:54 Saved as file ~undo.max
+Tue Jul 11 16:41:00 Saved as file ~undo.max
+Tue Jul 11 16:41:04 Saved as file ~undo.max
+Tue Jul 11 16:41:50 Saved as file ~undo.max
+Tue Jul 11 16:42:00 Saved as file ~undo.max
+Tue Jul 11 16:42:25 Saved as file ~undo.max
+Tue Jul 11 16:42:59 Saved as file ~undo.max
+Tue Jul 11 16:43:13 Saved as file ~undo.max
+Tue Jul 11 16:43:23 Saved as file ~undo.max
+Tue Jul 11 16:43:37 Saved as file ~undo.max
+Tue Jul 11 16:43:54 Saved as file ~undo.max
+Tue Jul 11 16:43:59 Saved as file ~undo.max
+Tue Jul 11 16:44:25 Saved as file ~undo.max
+Tue Jul 11 16:44:38 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 16:45:38 Saved as file BACKUP1.MAX
+Tue Jul 11 16:45:38 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 16:45:38 UserDiv from Layout.INI for AutoECO: 60
+Tue Jul 11 16:45:38 Loaded file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ZIGBEE.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\BCON100T.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\BCON156T.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\BGA.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CAPACITORS.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CLCC.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\CONNECTOR.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DCON050T.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DCON085T.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIMM050F.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIMM050T.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIN.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIODES.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIP100B.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DIP100T.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DSUBT.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\DSUBT_HD.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\ECON100T.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\EMPTY.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\EX_GUI.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\FBUS.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\FOOTERS.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\ISA.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\JUMPER.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\LAYOUT.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\LCON100T.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\METRIC.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\NEO.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PADSTACK.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PC104.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PCI.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PCON100T.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PCON156T.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PGA.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\PLCC.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\QUAD.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\QUADB.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\REGULATORS.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\RELAY.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\RESISTORS.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\RF.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SBUS.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM050F.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM050T.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM100F.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIMM100T.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SIP.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SM.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SOG.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SOJ.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\STIFF.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\SWITCH.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TELE.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_AXIAL.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_CAP_P.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_CYLND.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_DIODE.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_DISC.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TM_RAD.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TO.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TRAINING.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\TRANSISTORS.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\VRES.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\WCON100T.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\XT.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\ZIGBEE.LLB
+Tue Jul 11 16:45:38 Loaded file C:\USERS\USER\DESKTOP\ORCAD\LIBRARIES\LAYOUT\ZIGZAG.LLB
+Tue Jul 11 16:45:39 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 16:45:39 Loaded file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 16:45:48 Saved as file ~undo.max
+Tue Jul 11 16:45:56 Saved as file ~undo.max
+Tue Jul 11 16:46:22 Saved as file ~undo.max
+Tue Jul 11 16:46:40 Saved as file ~undo.max
+Tue Jul 11 16:46:47 Saved as file BACKUP1.MAX
+Tue Jul 11 16:46:47 No new connections routed.
+Tue Jul 11 16:46:47 Total is now 0 out of 45 (0%).
+Tue Jul 11 16:46:47 Saved as file SWEEP1.MAX
+Tue Jul 11 16:46:48 Saved as file BACKUP1.MAX
+Tue Jul 11 16:46:48 Routed 42 connections in 0 seconds.
+Tue Jul 11 16:46:48 Total is now 42 out of 45 (93%).
+Tue Jul 11 16:46:48 Saved as file SWEEP2.MAX
+Tue Jul 11 16:46:49 No new connections routed.
+Tue Jul 11 16:46:49 Total is now 42 out of 45 (93%).
+Tue Jul 11 16:46:49 Saved as file SWEEP3.MAX
+Tue Jul 11 16:46:49 No new connections routed.
+Tue Jul 11 16:46:49 Total is now 42 out of 45 (93%).
+Tue Jul 11 16:46:49 Saved as file SWEEP4.MAX
+Tue Jul 11 16:46:50 No new connections routed.
+Tue Jul 11 16:46:50 Total is now 42 out of 45 (93%).
+Tue Jul 11 16:46:50 Saved as file SWEEP5.MAX
+Tue Jul 11 16:47:47 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 16:47:54 No new connections routed.
+Tue Jul 11 16:47:54 Total is now 0 out of 45 (0%).
+Tue Jul 11 16:47:54 Saved as file SWEEP1.MAX
+Tue Jul 11 16:47:54 Saved as file BACKUP1.MAX
+Tue Jul 11 16:47:54 Routed 42 connections in 0 seconds.
+Tue Jul 11 16:47:54 Total is now 42 out of 45 (93%).
+Tue Jul 11 16:47:54 Saved as file SWEEP2.MAX
+Tue Jul 11 16:47:55 No new connections routed.
+Tue Jul 11 16:47:55 Total is now 42 out of 45 (93%).
+Tue Jul 11 16:47:55 Saved as file SWEEP3.MAX
+Tue Jul 11 16:47:56 No new connections routed.
+Tue Jul 11 16:47:56 Total is now 42 out of 45 (93%).
+Tue Jul 11 16:47:56 Saved as file SWEEP4.MAX
+Tue Jul 11 16:47:57 No new connections routed.
+Tue Jul 11 16:47:57 Total is now 42 out of 45 (93%).
+Tue Jul 11 16:47:57 Saved as file SWEEP5.MAX
+Tue Jul 11 16:48:52 Saved as file ~undo.max
+Tue Jul 11 16:49:15 Saved as file ~undo.max
+Tue Jul 11 16:49:27 Saved as file BACKUP1.MAX
+Tue Jul 11 16:51:28 Saved as file ~undo.max
+Tue Jul 11 16:53:24 Saved as file ~undo.max
+Tue Jul 11 16:55:04 Saved as file ~undo.max
+Tue Jul 11 16:55:21 Saved as file ~undo.max
+Tue Jul 11 16:55:22 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 16:57:35 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 16:58:12 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 16:58:49 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 16:59:10 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 16:59:25 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 16:59:39 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 16:59:57 Saved as file BACKUP1.MAX
+Tue Jul 11 09:59:44 Saved as file BACKUP1.MAX
+Tue Jul 11 10:02:18 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 10:02:43 Saved as file D:\PROJECT\PROJECT.MAX
+Tue Jul 11 10:10:12 Saved as file BACKUP1.MAX
+Tue Jul 11 10:21:04 Saved as file BACKUP1.MAX
+Tue Jul 11 10:53:45 Saved as file BACKUP1.MAX
+Tue Jul 11 11:04:15 Saved as file BACKUP1.MAX
+Tue Jul 11 11:32:39 Saved as file BACKUP1.MAX
+Tue Jul 11 12:22:30 Saved as file BACKUP1.MAX
+Tue Jul 11 14:12:53 Saved as file BACKUP1.MAX
+Tue Jul 11 14:23:19 Saved as file BACKUP1.MAX
+Tue Jul 11 14:33:49 Saved as file BACKUP1.MAX
+Tue Jul 11 14:44:19 Saved as file BACKUP1.MAX
+Tue Jul 11 14:54:19 Saved as file BACKUP1.MAX
+Tue Jul 11 15:04:19 Saved as file BACKUP1.MAX
+Tue Jul 11 15:14:19 Saved as file BACKUP1.MAX
+Tue Jul 11 15:24:49 Saved as file BACKUP1.MAX
+Tue Jul 11 15:35:19 Saved as file BACKUP1.MAX
+Tue Jul 11 15:45:49 Saved as file BACKUP1.MAX
+Tue Jul 11 15:51:56 Saved as file ~undo.max
+Tue Jul 11 15:56:19 Saved as file BACKUP1.MAX
+Wed Jul 12 09:35:51 Saved as file BACKUP1.MAX
+Wed Jul 12 09:45:51 Saved as file BACKUP1.MAX
+Wed Jul 12 09:55:51 Saved as file BACKUP1.MAX
+Wed Jul 12 10:05:51 Saved as file BACKUP1.MAX
+Wed Jul 12 10:15:51 Saved as file BACKUP1.MAX
+Wed Jul 12 10:26:07 Saved as file BACKUP1.MAX
+Wed Jul 12 10:37:11 Saved as file BACKUP1.MAX
+Wed Jul 12 10:47:11 Saved as file BACKUP1.MAX
+Wed Jul 12 10:57:11 Saved as file BACKUP1.MAX
+Wed Jul 12 11:07:11 Saved as file BACKUP1.MAX
+Wed Jul 12 11:17:28 Saved as file BACKUP1.MAX
+Wed Jul 12 11:27:28 Saved as file BACKUP1.MAX
+Wed Jul 12 11:37:28 Saved as file BACKUP1.MAX
+Wed Jul 12 11:47:58 Saved as file BACKUP1.MAX
+Wed Jul 12 12:08:14 Saved as file BACKUP1.MAX
+Wed Jul 12 12:18:30 Saved as file BACKUP1.MAX
+Wed Jul 12 12:28:30 Saved as file BACKUP1.MAX
+Wed Jul 12 12:40:20 Saved as file BACKUP1.MAX
+Wed Jul 12 12:50:37 Saved as file BACKUP1.MAX
+Wed Jul 12 13:32:01 Saved as file BACKUP1.MAX
+Wed Jul 12 13:45:27 Saved as file BACKUP1.MAX
+Wed Jul 12 13:55:57 Saved as file BACKUP1.MAX
+Wed Jul 12 14:05:57 Saved as file BACKUP1.MAX
+Wed Jul 12 14:16:27 Saved as file BACKUP1.MAX
+Wed Jul 12 14:26:57 Saved as file BACKUP1.MAX
+Wed Jul 12 14:36:57 Saved as file BACKUP1.MAX
+Wed Jul 12 14:46:57 Saved as file BACKUP1.MAX
+Wed Jul 12 14:56:57 Saved as file BACKUP1.MAX
+Wed Jul 12 15:06:57 Saved as file BACKUP1.MAX
+Wed Jul 12 15:16:58 Saved as file BACKUP1.MAX
+Wed Jul 12 15:26:58 Saved as file BACKUP1.MAX
+Wed Jul 12 15:37:28 Saved as file BACKUP1.MAX
